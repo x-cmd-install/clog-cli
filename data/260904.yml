@@ -7,7 +7,7 @@ about:
   head: 7066cba
   archived: false
   latestVersion: nightly
-  collectedAt: 2026-09-04T19:56:31Z
+  collectedAt: 2026-09-04T20:44:17Z
 timeline:
   created: 2014-09-12
   lastCommit: 2024-07-09
@@ -82,6 +82,39 @@ total:
   openIssue: 26
   commit: 222
 ---
+path: /home/runner/.x-repo/github.com/clog-tool/clog-cli
+collectedAt: 2026-09-04T20:44:18Z
+loc:
+  Rust:
+    code: 342
+    comments: 10
+    blanks: 61
+    files: 5
+  Sh:
+    code: 98
+    comments: 14
+    blanks: 23
+    files: 3
+  Toml:
+    code: 37
+    comments: 12
+    blanks: 6
+    files: 2
+  Makefile:
+    code: 22
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 228
+    blanks: 167
+    files: 2
+total:
+  code: 511
+  comments: 317
+  blanks: 268
+  files: 13
 ---
 date: "2026-08-24"
 repo:
