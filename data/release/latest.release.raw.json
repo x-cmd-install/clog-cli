@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 974312,
       "digest": null,
-      "download_count": 99,
+      "download_count": 102,
       "created_at": "2017-03-18T21:33:14Z",
       "updated_at": "2017-03-18T21:33:15Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-aarch64-unknown-linux-gnu.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1523724,
       "digest": null,
-      "download_count": 61,
+      "download_count": 63,
       "created_at": "2017-03-18T21:33:32Z",
       "updated_at": "2017-03-18T21:33:32Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-armv7-unknown-linux-gnueabihf.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 762345,
       "digest": null,
-      "download_count": 77,
+      "download_count": 79,
       "created_at": "2017-03-18T21:34:01Z",
       "updated_at": "2017-03-18T21:34:01Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-i686-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1604484,
       "digest": null,
-      "download_count": 51,
+      "download_count": 56,
       "created_at": "2017-03-18T21:33:16Z",
       "updated_at": "2017-03-18T21:33:16Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-i686-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1572942,
       "digest": null,
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2017-03-18T21:33:15Z",
       "updated_at": "2017-03-18T21:33:15Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-i686-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 761555,
       "digest": null,
-      "download_count": 366,
+      "download_count": 371,
       "created_at": "2017-03-18T21:39:52Z",
       "updated_at": "2017-03-18T21:39:52Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-x86_64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1555950,
       "digest": null,
-      "download_count": 15911,
+      "download_count": 15924,
       "created_at": "2017-03-18T21:37:59Z",
       "updated_at": "2017-03-18T21:37:59Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-x86_64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1558425,
       "digest": null,
-      "download_count": 1909,
+      "download_count": 1917,
       "created_at": "2017-03-18T21:38:11Z",
       "updated_at": "2017-03-18T21:38:11Z",
       "browser_download_url": "https://github.com/clog-tool/clog-cli/releases/download/v0.9.3/clog-v0.9.3-x86_64-unknown-linux-musl.tar.gz"
